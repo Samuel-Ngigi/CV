@@ -1,0 +1,26 @@
+.p-data{
+    display: flex;
+   
+}
+.dp-photo{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-top: 30px;
+   }
+   .p-data-details{
+    padding-left: 40px;
+   }
+.body-div{
+    padding-left: 30px;
+}
+p, td {
+    font-size: small;
+}
+table{
+    width: 50%;
+}
+.skills-sec{
+    display: flex;
+   
+}
